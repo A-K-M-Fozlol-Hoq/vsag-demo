@@ -1,0 +1,8 @@
+.header-bg-image {
+  height: 600px;
+  background-image: url('../images/cover.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: left top;
+  border-radius: 10px;
+}
