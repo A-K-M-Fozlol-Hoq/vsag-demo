@@ -1,0 +1,30 @@
+.header-bg-image {
+  height: 600px;
+  background-image: url('../images/cover.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: left top;
+  border-radius: 10px;
+}
+
+/* nav bar css */
+.nav-wrapper img {
+  height: 100px;
+  width: 100px;
+}
+.nav-wrapper ul li .nav-link {
+  color: #000 !important;
+  margin-top: -9px;
+}
+.nav-wrapper .nav-item:hover {
+  color: rgba(0, 0, 0, 0.5) !important;
+  cursor: pointer;
+}
+.nav-wrapper ul li .dropdown-toggle {
+  margin-top: 0px;
+}
+/* about us */
+.about-us {
+  /* height: 600px; */
+  padding-bottom: 50px;
+}
