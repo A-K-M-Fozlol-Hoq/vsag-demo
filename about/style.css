@@ -14,7 +14,6 @@
 }
 .nav-wrapper ul li .nav-link {
   color: #000 !important;
-  margin-top: -9px;
 }
 .nav-wrapper .nav-item:hover {
   color: rgba(0, 0, 0, 0.5) !important;
